@@ -1,3 +1,8 @@
+#you can write whatever after the pound sign
+#now git will ignore temporary office files
+~$*.doc*
+~$*.ppt*
+
 # History files
 .Rhistory
 .Rapp.history
